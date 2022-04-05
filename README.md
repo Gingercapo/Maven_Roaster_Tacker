@@ -17,8 +17,8 @@ products, customers and territories.
 ## OBJECTIVE
 
 I Used Tableau Desktop to:
-• Create relationships between data sources
-• Design dynamic dashboards & visuals
-• Leverage geospatial mapping features
-• Apply advanced calculations to key business use cases
-• Integrate predictive analytics assets
+• Create relationships between data sources.
+• Design dynamic dashboards & visuals.
+• Leverage geospatial mapping features.
+• Apply advanced calculations to key business use cases.
+• Integrate predictive analytics assets.
